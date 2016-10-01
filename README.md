@@ -25,7 +25,7 @@ Flags:
 
 ## Current Status
 
-oci-fetch can currently fetch OCI images from a [Docker v2 registry API](https://docs.docker.com/registry/spec/api/#pulling-an-image<Paste>).
+oci-fetch can currently fetch OCI images from a [Docker v2 registry API](https://docs.docker.com/registry/spec/api/#pulling-an-image).
 
 ## Future Roadmap
 
